@@ -6,3 +6,4 @@ jiwer
 tensorboard
 gradio
 ipywidgets
+mosaicml-streaming
